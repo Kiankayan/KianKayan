@@ -52,7 +52,7 @@ Through my education and personal projects, I've developed skills across the ful
 
 ## 🚀 Personal Projects
 
-### BookWise — Completed
+### BookWise - Completed
 
 A full-stack library management system designed to manage library collections, users and borrowing workflows.
 
