@@ -35,5 +35,5 @@ A workforce management application focused on employee management, shift plannin
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** in/kian-taklif-a11537446
+- **LinkedIn:** https://www.linkedin.com/in/kian-taklif-a11537446/
 - **Location:** Stockholm, Sweden
