@@ -25,15 +25,15 @@ I'm a certified Full-Stack Developer based in Stockholm, Sweden, with a passion 
 
 ## 🚀 Featured Projects
 
-**[BookWise](https://github.com/Kiankayan/BookWise)** — Completed
+**[BookWise](https://github.com/Kiankayan/BookWise)**- Completed
 
 A full-stack library management application featuring authentication, book management, borrowing workflows, dashboards and data visualization.
 
-**[WorkSpot](https://github.com/Kiankayan)** — In Progress
+**[WorkSpot](https://github.com/Kiankayan)** - In Progress
 
 A workforce management application focused on employee management, shift planning and scheduling.
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** in/kian-taklif-a11537446
 - **Location:** Stockholm, Sweden
