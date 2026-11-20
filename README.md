@@ -25,7 +25,7 @@ I'm a certified Full-Stack Developer based in Stockholm, Sweden, with a passion 
 
 ## 🚀 Featured Projects
 
-**[BookWise](https://github.com/Kiankayan/BookWise)**- Completed
+**[BookWise](https://github.com/Kiankayan/BookWise)** - Completed
 
 A full-stack library management application featuring authentication, book management, borrowing workflows, dashboards and data visualization.
 
