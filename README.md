@@ -68,13 +68,13 @@ Features include:
 
 **Technologies:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL, Cloudinary and Resend.
 
-### WorkSpot — In Progress
+### WorkSpot - In Progress
 
 A staffing and workforce management application focused on employee management, shift planning and scheduling.
 
 **Focus:** Full-stack development, workforce management and responsive user interfaces.
 
-### ClientFlow — Planned
+### ClientFlow - Planned
 
 A planned CRM application focused on customer relationship management, organizing customer information and managing business workflows.
 
