@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kian Taklif
+# 👋 Hi, I'm Kian 
 
 ### Certified Full-Stack Developer | React & Node.js
 
