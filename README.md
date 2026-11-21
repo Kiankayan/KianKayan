@@ -29,6 +29,12 @@ I'm a certified Full-Stack Developer based in Stockholm, Sweden, with a passion 
 
 A full-stack library management application featuring authentication, book management, borrowing workflows, dashboards and data visualization.
 
+<p align="center">
+  <img src="https://github.com/Kiankayan/BookWise/blob/main/screenshots/1.png" width="32%" />
+  <img src="https://github.com/Kiankayan/BookWise/blob/main/screenshots/2.png" width="32%" />
+  <img src="https://github.com/Kiankayan/BookWise/blob/main/screenshots/3.png" width="32%" />
+</p>
+
 **[WorkSpot](https://github.com/Kiankayan)** - In Progress
 
 A workforce management application focused on employee management, shift planning and scheduling.
