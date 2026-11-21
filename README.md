@@ -39,6 +39,10 @@ A full-stack library management application featuring authentication, book manag
 
 A workforce management application focused on employee management, shift planning and scheduling.
 
+**[ClientFlow](YOUR_GITHUB_REPOSITORY_URL)** - Planned
+
+A CRM application concept focused on customer management, sales pipelines and business relationships.
+
 ## 🤝 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/kian-taklif-a11537446/
